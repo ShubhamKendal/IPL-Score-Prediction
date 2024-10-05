@@ -73,4 +73,4 @@ Feel free to reach out for questions :
 
 Email: shubham.kendal@email.com
 
-LinkedIn: [Your LinkedIn Profile(https://www.linkedin.com/in/shubhamkendal/)
+LinkedIn: (https://www.linkedin.com/in/shubhamkendal/)
