@@ -11,8 +11,8 @@ The main goals of this project are:
 3. Model Accuracy: Improve prediction accuracy using advanced deep learning techniques.
 
 # Key Technologies and Tools
-  # Python: Main programming language used.
-  # Libraries:
+  Python: Main programming language used.
+  Libraries:
 1. TensorFlow: Used for building, training, and optimizing the neural network.
 2. Keras: Integrated with TensorFlow for creating and managing neural network layers.
 3. NumPy: Numerical computing.
@@ -32,26 +32,26 @@ The dataset contains the following key features:
 The dataset covers IPL matches from 2007 to 2018, providing extensive historical data for model training.
 
 # Model Development
-  # Data Preprocessing:
+  Data Preprocessing:
 1. Data cleaning: Handling missing values, feature engineering (transforming categorical variables), and scaling numerical features.
 2. Splitting the data into training and testing sets to evaluate model performance.
 
-  # Neural Network Architecture:
+  Neural Network Architecture:
 A feedforward neural network with multiple hidden layers was built using TensorFlow and Keras.
 1. Input layer: Takes in features such as team, batsman, bowler, and stadium.
 2. Hidden layers: Several dense layers with activation functions like ReLU.
 3. Output layer: Predicts the final match score.
 
-  # Evaluation:
+  Evaluation:
 Metrics used: Root Mean Squared Error (RMSE) and R² score were used to assess model performance.
 Results: The model achieved an RMSE of 12.5 and an accuracy rate of 85%, showing promising predictive ability.
 
 # Analysis & Visualizations
-  # Exploratory Data Analysis (EDA): 
+  Exploratory Data Analysis (EDA): 
     The dataset was analyzed using Pandas, Matplotlib, and Seaborn to understand key trends in the data, such as:
     1. Distribution of scores across different teams and stadiums.
     2. The impact of different players on the final match score.
-  # Model Performance: 
+  Model Performance: 
     Visualized the learning curves, training/validation loss, and predicted vs actual scores using line and scatter plots.
 
 # Key Findings
@@ -72,4 +72,5 @@ Results: The model achieved an RMSE of 12.5 and an accuracy rate of 85%, showing
 Feel free to reach out for questions :
 
 Email: shubham.kendal@email.com
+
 LinkedIn: [Your LinkedIn Profile(https://www.linkedin.com/in/shubhamkendal/)
